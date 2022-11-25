@@ -1,0 +1,27 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": 201,
+	"service_label": "QUANTITY_UNIT",
+	"QuantityUnit": {
+		"QuantityUnit": "ACR"
+	},
+	"api_schema": "DPFMQuantityUnitCreates",
+	"accepter": [
+		"QuantityUnit"
+	],
+	"order_id": null,
+	"deleted": false,
+	"sql_update_result": true,
+	"sql_update_error": "",
+	"subfunc_result": null,
+	"subfunc_error": "",
+	"exconf_result": null,
+	"exconf_error": "",
+	"api_processing_result": true,
+	"api_processing_error": ""
+}
